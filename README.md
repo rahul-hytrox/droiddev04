@@ -33,8 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droiddev04&show_icons=true&locale=en&layout=compact" alt="droiddev04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=droiddev04&" alt="droiddev04" /></p>
-<p><img align="center" alt="coder" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/c9/09/61/c90961f446e17220fab2e424f33edb85.gif"></p>
-
 <p align="center" dir="auto">
 <img src="https://camo.githubusercontent.com/c731fdac3ea002f80d216c4f9df4c0f125e12b839988425505054fb46ac8ab02/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5562756e747526636f6c6f723d253233304541413230267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b7669736974696e67212b596f752772652b77656c636f6d6521" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&amp;color=%230EAA20&amp;vCenter=true&amp;lines=Thanks+for+visiting!+You're+welcome!" style="max-width: 100%; display: block;">
 </p>
