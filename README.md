@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Prajapati</h1>
 <h3 align="center">Full Stack developer</h3>
-<p align="center" dir="center"><animated-image data-catalyst="" style="width: auto;"><img src="https://giphy.com/embed/pa4YEOBPuvOe2RhNqe" alt="droiddev" align="center" height="300px" width="50%" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="center" dir="center">
+<img src="https://i.giphy.com/media/pa4YEOBPuvOe2RhNqe/giphy.gif" align="center" height="300px" width="50%" style="max-width: 100%; display: inline-block;">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=droiddev04&label=Profile%20views&color=0e75b6&style=flat" alt="droiddev04" /> </p>
 
