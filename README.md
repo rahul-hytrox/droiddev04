@@ -1,3 +1,4 @@
+<div style="background-color:#ffff26;">
 <h1 align="center">Hi 👋, I'm Rahul Prajapati</h1>
 <h3 align="center">Full Stack developer</h3>
 
@@ -31,4 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=droiddev04&show_icons=true&locale=en" alt="droiddev04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=droiddev04&" alt="droiddev04" /></p>
+</div>
 
